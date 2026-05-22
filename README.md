@@ -625,6 +625,22 @@ Contributions are welcome! Here's how to get started:
 - Use Ollama for free local AI during development
 
 ---
+## Snapshots
+
+<img width="1900" height="945" alt="image" src="https://github.com/user-attachments/assets/275cad10-8175-4880-8595-a74ea3074475" />
+
+--
+<img width="1910" height="945" alt="image" src="https://github.com/user-attachments/assets/7a82c0cb-5438-4053-8f4c-d35e73474269" />
+
+--
+<img width="1215" height="940" alt="image" src="https://github.com/user-attachments/assets/49495b78-7951-4317-9361-a5442e3a7586" />
+
+--
+<img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/0ec05dea-9f28-4df1-8f15-2da1c8602c3b" />
+
+--
+
+---
 
 ## 📝 License
 
@@ -638,34 +654,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 If you found this helpful, please ⭐ the repository!
 
-</div>
 
-## Configuration
-
-### Environment Variables
-
-| Variable | Description | Default |
-|----------|-------------|---------|
-| `OPENAI_API_KEY` | OpenAI API key for AI features | Required |
-| `AI_MODEL` | OpenAI model to use | `gpt-4` |
-| `DEBUG` | Enable debug mode | `true` |
-| `UPLOAD_DIR` | Directory for uploaded files | `./uploads` |
-| `CLONE_DIR` | Directory for cloned repos | `./cloned_repos` |
-| `REPORTS_DIR` | Directory for generated reports | `./reports` |
-| `MAX_FILE_SIZE_MB` | Maximum upload file size | `100` |
-
-## Target Use Cases
-
-- **Code Onboarding**: Help new developers understand codebases quickly
-- **Code Reviews**: Accelerate code review and audit processes
-- **Knowledge Transfer**: Facilitate knowledge sharing between teams
-- **Open Source Understanding**: Quickly grasp open-source project structures
-- **Legacy Documentation**: Generate documentation for legacy systems
-
-## License
-
-MIT License - feel free to use this project for any purpose.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
