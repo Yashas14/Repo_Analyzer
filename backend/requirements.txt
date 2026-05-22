@@ -1,0 +1,23 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# AI and NLP
+openai
+google-genai
+
+# PDF Generation
+reportlab
+markdown
+
+# File handling
+aiofiles
+
+# Git operations
+GitPython
+
+# Development
+python-dotenv
